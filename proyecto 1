@@ -98,7 +98,7 @@
 
     <script>
         function iniciarJuego() {
-            alert("¡La gravedad ha cambiado! 🚀");
+            alert("¡La gravedad ha cambiadooo! 🚀");
         }
     </script>
 

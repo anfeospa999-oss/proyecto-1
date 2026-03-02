@@ -1,106 +1,14 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 
 <head>
-    <meta charset="UTF-8">
     <title>Antigravity</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: linear-gradient(to bottom, #000428, #004e92);
-            color: white;
-            text-align: center;
-        }
-
-        header {
-            background: rgba(0, 0, 0, 0.6);
-            padding: 20px;
-        }
-
-        h1 {
-            margin: 0;
-            font-size: 40px;
-        }
-
-        .container {
-            padding: 40px 20px;
-        }
-
-        .card {
-            background: rgba(255, 255, 255, 0.1);
-            padding: 20px;
-            margin: 20px auto;
-            border-radius: 15px;
-            width: 80%;
-            max-width: 500px;
-        }
-
-        button {
-            padding: 10px 20px;
-            border: none;
-            border-radius: 10px;
-            background-color: #00c3ff;
-            color: black;
-            font-weight: bold;
-            cursor: pointer;
-        }
-
-        button:hover {
-            background-color: #00ffcc;
-        }
-
-        footer {
-            margin-top: 30px;
-            padding: 10px;
-            background: rgba(0, 0, 0, 0.6);
-        }
-    </style>
 </head>
 
 <body>
 
-    <header>
-        <h1>ANTIGRAVITY</h1>
-        <p>Desafiando las leyes de la física</p>
-    </header>
-
-    <div class="container">
-
-        <div class="card">
-            <h2>¿Qué es Antigravity?</h2>
-            <p>
-                Antigravity es un juego donde el jugador controla un personaje
-                que puede cambiar la gravedad para superar obstáculos.
-            </p>
-        </div>
-
-        <div class="card">
-            <h2>Características</h2>
-            <ul style="list-style: none; padding: 0;">
-                <li>🚀 Cambio de gravedad</li>
-                <li>🧩 Niveles desafiantes</li>
-                <li>🎮 Controles simples</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>Comenzar</h2>
-            <p>Haz clic para iniciar la aventura</p>
-            <button onclick="iniciarJuego()">Iniciar</button>
-        </div>
-
-    </div>
-
-    <footer>
-        <p>Proyecto HTML básico - 2026</p>
-    </footer>
-
-    <script>
-        function iniciarJuego() {
-            alert("¡La gravedad ha cambiadooo! 🚀");
-        }
-    </script>
+    <h1>Antigravity</h1>
+    <p>Este es un proyecto básico de prueba.</p>
 
 </body>
 
